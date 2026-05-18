@@ -1,0 +1,28 @@
+# Virtual Environment
+myenv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints and weights (local-only, very large)
+personal_model/
+personal_model_merged/
+unsloth_compiled_cache/
+SkyReels-V2/
+
+# User-specific outputs / large binary files
+*.png
+*.wav
+*.mp4
+*.mp3
+*.zip
+*.tar.gz
+
+# Local IDEs / system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,72 @@
+{
+  "topic": "Medical diagonisis for heart surgery",
+  "model": "AHQ_quantize",
+  "results": [
+    {
+      "source": "val",
+      "question": "What is the primary tool for diagnosing coronary artery disease that requires surgical intervention?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "A 55-year-old patient with hypertension and high cholesterol presents with chest pain during exercise. What is the most likely diagnosis?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "Which imaging modality is best suited to visualize the coronary artery bypass grafts post-operatively?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "How does the presence of diabetes mellitus impact the risk of complications in patients undergoing heart surgery?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "What are the key differences between off-pump and on-pump coronary artery bypass grafting?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "A patient with a history of cardiac transplantation is scheduled for reoperation. What are the primary concerns during this procedure?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "How does the patient's ejection fraction affect their suitability for minimally invasive heart surgery?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "What are the common contraindications to using transesophageal echocardiography during heart surgery?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "A 75-year-old patient with severe aortic stenosis is being evaluated for surgical repair. What are the risks associated with this procedure in elderly patients?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "What is the typical hemoglobin level threshold for transfusion in patients undergoing cardiac surgery?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    },
+    {
+      "source": "generated",
+      "question": "How does the patient's body mass index influence their anesthesia management during heart surgery?",
+      "answer": "<ERROR: 404 Client Error: Not Found for url: http://localhost:11434/api/chat>",
+      "model": "AHQ_quantize"
+    }
+  ]
+}
